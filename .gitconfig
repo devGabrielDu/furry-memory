@@ -1,0 +1,7 @@
+[user]
+	name = Gabriel Dutra
+	email = gabriel.dutra10@gmail.com
+[push]
+	default = matching
+[alias]
+	co = checkout
